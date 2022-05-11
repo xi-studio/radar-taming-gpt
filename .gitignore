@@ -132,3 +132,4 @@ src/lightning_logs/
 .DS_Store
 logs/
 !taming/data/
+!data/train.csv
